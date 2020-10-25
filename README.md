@@ -1,4 +1,4 @@
-# Iamge-searcher
+# Image-searcher
 
 # Overview
 The app is developed to have an opportunity to search for images by keyword. Technically, it's a standalone(non distributed) cache of external image storage(secret link) with the possibility to search image urls by metadata.
