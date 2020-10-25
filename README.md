@@ -14,6 +14,7 @@ GET /image-searcher/search/{keyWord} - search images by key word and return list
 Example: 
 request: localhost:8080/image-searcher/search/Pentax 645D
 response: 
+```js
 [
     {
         "croppedPictureUrl": "http://interview.agileengine.com/pictures/cropped/0002.jpg",
@@ -24,6 +25,7 @@ response:
         "fullPictureUrl": "http://interview.agileengine.com/pictures/full_size/697074.jpg"
     }
 ]
+```
 
 # Further improvments
 1) Adding java docs
