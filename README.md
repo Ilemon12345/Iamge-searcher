@@ -11,8 +11,11 @@ Comman to run: java -jar {name}.jar
 
 # Availabe API
 GET /image-searcher/search/{keyWord} - search images by key word and return list of their urls
+
 Example: 
+
 request: localhost:8080/image-searcher/search/Pentax 645D
+
 response: 
 ```js
 [
