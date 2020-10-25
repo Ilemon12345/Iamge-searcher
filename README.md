@@ -1,8 +1,7 @@
 # Iamge-searcher
 
 # Overview
-App is developed to have an opportunity to search images by key word. 
-Techincally, it's a standalone(non distributed) cache for image storage(secret link) with posibility to search image urls by metadata.
+The app is developed to have an opportunity to search for images by keyword. Technically, it's a standalone(non distributed) cache of external image storage(secret link) with the possibility to search image urls by metadata.
 
 # How to build 
 To build this app you need to have maven 3.8.0 and higher and java 8 and higher.
